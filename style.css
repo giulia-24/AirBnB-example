@@ -1,0 +1,65 @@
+.open-sans-<uniquifier> {
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+}
+  
+
+.roboto-black {
+    font-family: "Roboto", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+}
+
+
+body{
+    font-family: "Roboto", sans-serif;
+    background-color: white;
+    color: black;
+}
+
+.container{
+    border: solid;
+    border-width: 1px;
+    border-radius: 15px;
+    vertical-align: middle;
+    text-align: center;
+    padding-left: ;
+   
+}
+
+form{
+    align-items: center;
+    padding-top: 15px;
+    box-shadow: 5px 5px 8px black;
+}
+
+.airbnb{
+    height:100px;
+}
+
+button{
+    border-width:1px;
+    border-color: black;
+    border-radius: 5px;
+    background-color: white;
+    color: black;
+    width: 280px;
+    height: 25px;
+    text-align: left;
+
+}
+
+.continue{
+    color:white;
+    background-color: rgb(241, 0, 93);
+    text-align: center;
+}
+
+.social{
+    width: 15px;
+    padding-right: 60px;
+}
